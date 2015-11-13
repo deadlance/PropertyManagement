@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="propertyManagement" uploadOnCheckin="85466724-7caf-45f8-ace8-448145d833a4">
+    <serverData>
+      <paths name="propertyManagement">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="propertyManagement" />
+  </component>
+</project>
