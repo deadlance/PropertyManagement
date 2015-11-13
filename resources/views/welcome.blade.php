@@ -9,7 +9,7 @@
 				</div>
 
 				<div class="panel-body">
-					You can store tasks here! Please register or login.
+					Die in a fire.
 				</div>
 			</div>
 		</div>
